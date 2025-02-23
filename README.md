@@ -1,1 +1,1 @@
-# odin-recipes
+So in this project we will be demonstrating my HTML skills i've acquired from the HTML foundations section in TOP. Probably just basic HTML structure, elements and tags. Also my new git and github skills. I'll also do a reflection after I'm done with the project.
